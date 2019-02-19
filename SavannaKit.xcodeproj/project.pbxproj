@@ -393,7 +393,7 @@
 					};
 					BEF8B63F20B88780006B85E9 = {
 						CreatedOnToolsVersion = 9.3.1;
-						DevelopmentTeam = 6G5LMQ72D8;
+						DevelopmentTeam = 9FK3425VTA;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -843,7 +843,7 @@
 				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 6G5LMQ72D8;
+				DEVELOPMENT_TEAM = 9FK3425VTA;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				INFOPLIST_FILE = "iOS Example/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 11.3;
@@ -866,7 +866,7 @@
 				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 6G5LMQ72D8;
+				DEVELOPMENT_TEAM = 9FK3425VTA;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				INFOPLIST_FILE = "iOS Example/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 11.3;
